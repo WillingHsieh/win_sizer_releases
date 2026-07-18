@@ -6,6 +6,23 @@
         <description>win_sizer 版本更新資訊</description>
         <language>zh-TW</language>
         <item>
+            <title>Version 0.3.1</title>
+            <pubDate>Sun, 19 Jul 2026 03:33:00 +0000</pubDate>
+            <sparkle:version>3</sparkle:version>
+            <sparkle:shortVersionString>0.3.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <ul>
+                    <li>修正自動更新視窗顯示英文的問題，現在會正確顯示正體中文</li>
+                </ul>
+            ]]></description>
+            <enclosure
+                url="https://github.com/WillingHsieh/win_sizer_releases/releases/download/v0.3.1/win_sizer.dmg"
+                sparkle:edSignature="3snS13BNiLQpBt2v5n4UFOyPHB5DeowGpkVxS4VY1gel7WlnVqYKg1GBq7baWJrvE3xannH0akKaX9wm5OloAA=="
+                length="1252467"
+                type="application/octet-stream" />
+        </item>
+        <item>
             <title>Version 0.3.0</title>
             <pubDate>Sun, 19 Jul 2026 03:11:00 +0000</pubDate>
             <sparkle:version>2</sparkle:version>
