@@ -4,7 +4,9 @@ macOS 選單列小工具：拖動任一視窗的標題列，畫面上方會彈�
 
 ## 下載
 
-到 [Releases](../../releases) 頁面下載最新版的 `win_sizer.dmg`，打開後把裡面的 `win_sizer.app` 拖進 Applications 捷徑即可安裝。
+👉 [**下載 win_sizer.dmg**](https://github.com/WillingHsieh/win_sizer_releases/releases/latest/download/win_sizer.dmg)
+
+打開後把裡面的 `win_sizer.app` 拖進 Applications 捷徑即可安裝。（想看更新紀錄可以到 [Releases](../../releases) 頁面，但下載請直接用上面這個連結，不要被頁面上另外兩個 "Source code" 連結搞混，那是 GitHub 自動產生的，跟這個 app 無關。）
 
 ## 第一次打開
 
