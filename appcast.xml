@@ -6,6 +6,24 @@
         <description>win_sizer 版本更新資訊</description>
         <language>zh-TW</language>
         <item>
+            <title>Version 0.4.1</title>
+            <pubDate>Sun, 19 Jul 2026 05:37:00 +0000</pubDate>
+            <sparkle:version>7</sparkle:version>
+            <sparkle:shortVersionString>0.4.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <ul>
+                    <li>支援直式螢幕：版型自動改成上下切（不再是不合理的窄長條），調色盤圖示也會畫成對應的直向比例</li>
+                    <li>多螢幕環境下，每個螢幕依自己的方向（橫/直）各自判斷，一橫一直混用也沒問題</li>
+                </ul>
+            ]]></description>
+            <enclosure
+                url="https://github.com/WillingHsieh/win_sizer_releases/releases/download/v0.4.1/win_sizer.dmg"
+                sparkle:edSignature="9UgBGU2E39SGV+1CLTg/6+P2kL3fIA5TlrPB/KsaExEg34qQUc11U4rham3BY0ldoCFndJSBd1WYcwqCDbFWDQ=="
+                length="1256057"
+                type="application/octet-stream" />
+        </item>
+        <item>
             <title>Version 0.4.0</title>
             <pubDate>Sun, 19 Jul 2026 04:53:00 +0000</pubDate>
             <sparkle:version>6</sparkle:version>
