@@ -6,6 +6,23 @@
         <description>win_sizer 版本更新資訊</description>
         <language>zh-TW</language>
         <item>
+            <title>Version 0.3.3</title>
+            <pubDate>Sun, 19 Jul 2026 04:37:00 +0000</pubDate>
+            <sparkle:version>5</sparkle:version>
+            <sparkle:shortVersionString>0.3.3</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <ul>
+                    <li>修正多螢幕環境下套用版型沒有避開 Dock 的問題：現在會用視窗實際所在的螢幕計算座標，不再固定用系統認定的「主螢幕」</li>
+                </ul>
+            ]]></description>
+            <enclosure
+                url="https://github.com/WillingHsieh/win_sizer_releases/releases/download/v0.3.3/win_sizer.dmg"
+                sparkle:edSignature="TxREvOrBS7FvK8Mox2ZhOEuHwGd4HpNIck3hcTMvhTXzs49TNrsBVWeFoxWRfUywdWIVDerzicnivENuL6juAA=="
+                length="1248688"
+                type="application/octet-stream" />
+        </item>
+        <item>
             <title>Version 0.3.2</title>
             <pubDate>Sun, 19 Jul 2026 03:59:00 +0000</pubDate>
             <sparkle:version>4</sparkle:version>
