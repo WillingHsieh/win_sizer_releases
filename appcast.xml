@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+    <channel>
+        <title>win_sizer 更新</title>
+        <link>https://raw.githubusercontent.com/WillingHsieh/win_sizer_releases/main/appcast.xml</link>
+        <description>win_sizer 版本更新資訊</description>
+        <language>zh-TW</language>
+        <item>
+            <title>Version 0.3.0</title>
+            <pubDate>Sun, 19 Jul 2026 03:11:00 +0000</pubDate>
+            <sparkle:version>2</sparkle:version>
+            <sparkle:shortVersionString>0.3.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <ul>
+                    <li>新增「自動更新」選單，之後更新不用再手動下載/拖曳安裝</li>
+                    <li>版型增加到 6 個：Left / Left more / Centre / Full Screen / Right more / Right</li>
+                    <li>拖曳時滑鼠移到哪個版型圖示，邊框會即時變粗反饋</li>
+                    <li>圖示整體加大，更容易命中</li>
+                    <li>選單列新增 About 面板</li>
+                </ul>
+            ]]></description>
+            <enclosure
+                url="https://github.com/WillingHsieh/win_sizer_releases/releases/download/v0.3.0/win_sizer.dmg"
+                sparkle:edSignature="b08Vxi+aNz6QkH001S+Bw71yclSxa4tgbkwuU6oaQARKwWhEYqDGLvU0znE+ZN93SBsHErTirIbhTANy+8GuDg=="
+                length="1249863"
+                type="application/octet-stream" />
+        </item>
+    </channel>
+</rss>
