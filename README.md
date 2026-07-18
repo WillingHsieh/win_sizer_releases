@@ -2,11 +2,14 @@
 
 macOS 選單列小工具：拖動任一視窗的標題列，畫面上方會彈出版型圖示，拖進去放開，視窗就變成該版型的大小/位置。
 
-## 下載
+> ⚠️ **這個 repo 從 v0.4.2 之後不再更新**，之後的新版本請到 Gitee：
+> https://gitee.com/willing-xie/win_sizer_releases
+
+## 下載（最後一版 v0.4.2）
 
 👉 [**下載 win_sizer.dmg**](https://github.com/WillingHsieh/win_sizer_releases/releases/latest/download/win_sizer.dmg)
 
-打開後把裡面的 `win_sizer.app` 拖進 Applications 捷徑即可安裝。（想看更新紀錄可以到 [Releases](../../releases) 頁面，但下載請直接用上面這個連結，不要被頁面上另外兩個 "Source code" 連結搞混，那是 GitHub 自動產生的，跟這個 app 無關。）
+打開後把裡面的 `win_sizer.app` 拖進 Applications 捷徑即可安裝。裝好後 app 選單裡的「自動更新」會自動幫你轉去 Gitee 抓後續版本，不用手動處理。（想看更新紀錄可以到 [Releases](../../releases) 頁面，但下載請直接用上面這個連結，不要被頁面上另外兩個 "Source code" 連結搞混，那是 GitHub 自動產生的，跟這個 app 無關。）
 
 ## 第一次打開
 
